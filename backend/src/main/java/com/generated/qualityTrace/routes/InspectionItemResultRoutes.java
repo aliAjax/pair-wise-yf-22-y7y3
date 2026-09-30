@@ -1,1 +1,7 @@
-package com.generated.qualityTrace.routes; public final class InspectionItemResultRoutes { public static final String PATH="/api/inspection-item-result"; }
+package com.generated.qualityTrace.routes;
+
+public final class InspectionItemResultRoutes {
+  public static final String PATH = "/api/inspection-item-results";
+
+  private InspectionItemResultRoutes() {}
+}
